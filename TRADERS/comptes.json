@@ -1,0 +1,9 @@
+{
+"title": "Comptes",
+"summary": "Prenez un peu de temps pour vous familiariser avec cette interface de gestion ;) Cet onglet vous permet d'accéder à vos comptes en Monnaie Locale électronique, que vous pouvez gérer comme un compte bancaire classique. Votre premier compte est créé automatiquement (vous pouvez changer son nom par la suite). Vous pouvez aussi créer des comptes partagés entre plusieurs adhérents.",
+"bulletpoint": ["Les <strong>boutons bleus</strong> permettant d'accéder à des formulaires, <strong>soit</strong> pour changer votre code de sécurité à 4 chiffres (demandé à chaque paiement sur l'application), <strong>soit</strong> pour créer un compte de Monnaie Locale personnel ou partagé.",
+  "La <strong>liste</strong> de vos comptes actifs avec leur solde en Monnaie Locale. Pour activer un compte, il est nécessaire d'avoir réglé votre adhésion avec votre association de Monnaie Locale.",
+  "En cliquant sur le nom d'un compte vous accédez à la gestion de ce compte (comme celle d'un compte bancaire). N'hésitez pas à consulter l'aide si vous êtes perdus ;)",
+  "En cliquant sur le <strong>bouton</strong> Nouvelle transaction, si votre compte est activé, vous devez choisir le type de transaction (vers un prestataire/commerçant, un particulier, ou l'un de vos comptes). Vous accédez ensuite au formulaire de la transaction.",
+  "Pour un compte partagé (activé), vous pourrez cliquer sur le <strong>bouton</strong> Autorisations pour choisir d'autoriser ou non d'autres adhérents à utiliser ce compte (vous seul gardez la gestion)."]
+}

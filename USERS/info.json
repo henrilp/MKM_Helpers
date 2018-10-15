@@ -1,0 +1,7 @@
+{
+"title": "Profil",
+"summary": "Ici vous pouvez remplir et modifier les informations de base de votre compte. Seul les membres autorisés de l'association pourront voir votre numéro de téléphone, votre adresse physique et votre adresse mail.",
+"bulletpoint": ["L'<strong>encadré</strong> affichant l'état de votre adhésion. S'il est vert, tout va bien ! :)"
+  ,"Le <strong>formulaire</strong> de modification de vos informations de base. L'image est optionnelle. Attention, changer votre adresse mail reviendra à changer vos identifiants de connexion ! Vous recevrez alors un nouveau mail d'activation de votre compte sur votre nouvelle adresse mail."
+  ]
+}

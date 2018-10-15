@@ -1,0 +1,7 @@
+{
+  "title" : "Archive de vos échanges Euros/Monnaie Locale en format papier",
+  "summary":"Lorsque vous échangez des euros contre de la Monnaie Locale physique (format papier), le comptoir ou le commerçant concerné doit enregistrer l'opération, et cela apparaîtra ici. Cet échange est considéré comme une \"transaction\" entre l'association de Monnaie Locale et vous.",
+  "bulletpoint": ["La <strong>liste</strong> de vos \"transactions effectuées\". Vous pouvez effectuer une recherche par période. En cochant une transaction, vous pouvez la télécharger en cliquant sur le <strong>bouton</strong> Actions.",
+    "<strong>En cliquant</strong> sur une \"transaction\", vous accédez aux informations de la facture avec l'association de Monnaie Locale. Vous pouvez choisir de la télécharger pour l'imprimer."
+  ]
+}

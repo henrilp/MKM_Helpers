@@ -1,0 +1,7 @@
+{
+"title": "Profil",
+"summary": "Ici vous pouvez remplir et modifier les informations personnelles de votre compte. Seul les membres autorisés de l'association pourront voir votre numéro de téléphone personnel et cette adresse mail.",
+"bulletpoint": ["L'<strong>encadré</strong> affichant l'état de votre adhésion et de votre inscription en tant que prestataire. S'il est vert, tout va bien ;)  Sur la droite de l'encadré, vous pouvez aussi voir et télécharger la carte de prestataire (QRCode + procédure SMS) pour les paiements électroniques."
+  ,"Le <strong>formulaire</strong> de modification de vos informations de base. L'image sera visible par les particuliers sur la carte des commerces, prenez quelque chose qui vous représente bien :) (vous pouvez en télécharger plusieurs et choisir ensuite parmi votre galerie). <br/><br/> Attention, changer votre adresse mail personnelle reviendra à changer vos identifiants de connexion. Vous recevrez alors un nouveau mail d'activation de votre compte sur votre nouvelle adresse mail."
+  ]
+}

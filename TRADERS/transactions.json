@@ -1,0 +1,8 @@
+{
+  "title" : "Transactions en devise physique (papier) et comptoir",
+  "summary":"Chaque fois qu'un adhérent effectue chez vous un dépôt ou un retrait de Monnaie Locale physique (version papier), cela s'enregistre comme une transaction entre l'association de Monnaie Locale et vous. Ici vous retrouvez l'archive de ces \"transactions\", les inventaires de votre stock en monnaie locale papier, et vous pouvez enregistrer des \"transactions\" par votre fonction de comptoir (lorsque vous échangez à un particulier des euros contre de la Devise Locale ou inversement).",
+  "bulletpoint": ["Les <strong>boutons</strong> vous permettant d'enregistrer un dépôt ou un retrait d'un adhérent en Monnaie Locale physique (version papier), et de mettre à jour le solde de votre stock en Monnaie Locale papier.",
+    "La <strong>liste</strong> de vos transactions effectuées. Vous pouvez effectuer une recherche par période. En cochant une transaction, vous pouvez la télécharger en cliquant sur le <strong>bouton</strong> Actions.",
+    "<strong>En cliquant</strong> sur une transaction, vous accédez aux informations de la facture avec l'association de Monnaie Locale. Vous pouvez choisir de la télécharger pour l'imprimer."
+  ]
+}

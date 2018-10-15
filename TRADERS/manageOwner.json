@@ -1,0 +1,7 @@
+{
+"title": "Autorisations du compte",
+"summary": "Cette page vous permet de gérer les autorisations de membres sur un compte partagé (par exemple un compte commun à la famille). La gestion du compte reste réservée au propriétaire.",
+"bulletpoint": ["L'<strong>encadré</strong> avec le nom du compte. A droite vous trouvez un <strong>bouton</strong> bleu permettant de lier un nouveau membre au compte, qui pourra effectuer des transactions ou des paiements électroniques depuis ou vers ce compte.",
+  "La <strong>liste</strong> des membres autorisés. Cliquez sur le <strong>bouton</strong> rouge à droite du nom du membre pour lui ôter ses droits sur le compte."
+  ]
+}

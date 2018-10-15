@@ -1,0 +1,7 @@
+{
+"title": "Rechargement du compte en Monnaie Locale",
+"summary": "Recharger son compte en Monnaie Locale électronique revient au même que lorsque vous \"achetez\" de la Monnaie Locale en version papier à votre association (par le système des enveloppes par exemple). Ici, via la plateforme sécurisée HELLOASSO (qui ne prend pas de commission), vous faites un \"don\" (qui n'est don que sur le plan légal) à votre asssociation et celle-ci vous recharge l'équivalent en Devise Locale électronique, au taux de change 1 pour 1 euro, sur le compte sélectionné.",
+"bulletpoint": ["L'<strong>encadré</strong> avec le nom de votre compte et à droite son solde en devise locale.",
+  "Le <strong>formulaire</strong> HELLOASSO de \"don\" à votre association de Monnaie Locale. Dans la case \"Montant libre\", indiquez la quantité d'euros que vous voulez échanger en devise locale (ce sera quasiment tout le temps en taux de change 1 pour 1, en fonction de votre Monnaie Locale). Si vous avez un compte HelloAsso vous pouvez vous connecter, sinon remplissez les champs pour les informations de la facture. Cliquez sur Finaliser pour payer en ligne, de manière sécurisée et sans commission."
+  ]
+}

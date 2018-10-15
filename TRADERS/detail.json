@@ -1,0 +1,8 @@
+{
+  "title" : "Détails prestataire",
+  "summary" : "Ici vous pouvez remplir et modifier vos informations commerciales et de comptoir (lorsque vous échangez de la Monnaie Locale physique contre des euros et inversement) afin d'être <u>visible par les adhérents particuliers.</u>",
+  "bulletpoint" : [ "Les <strong>boutons</strong> permettant de modifier les informations, ou d'afficher/télécharger la <u>carte de prestataire</u>, avec le QR CODE et la procédure SMS pour les paiements électroniques.",
+    "Le <strong>formulaire</strong> des informations détaillées du commerce, qui seront visibles par les utilisateurs.",
+    "Le <strong>formulaire</strong> qui donne ou non la fonction de comptoir au prestataire, et les horaires auxquels cette fonction peut être assurée."
+  ]
+}
